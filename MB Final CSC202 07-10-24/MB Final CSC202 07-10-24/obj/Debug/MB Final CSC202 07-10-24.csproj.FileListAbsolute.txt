@@ -1,0 +1,10 @@
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\bin\Debug\MB Final CSC202 07-10-24.exe.config
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\bin\Debug\MB Final CSC202 07-10-24.exe
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\bin\Debug\MB Final CSC202 07-10-24.pdb
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB Final CSC202 07-10-24.csproj.AssemblyReference.cache
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB_Final_CSC202_07_10_24.Form1.resources
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB_Final_CSC202_07_10_24.Properties.Resources.resources
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB Final CSC202 07-10-24.csproj.GenerateResource.cache
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB Final CSC202 07-10-24.csproj.CoreCompileInputs.cache
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB Final CSC202 07-10-24.exe
+C:\Users\rapto\source\repos\MB Final CSC202 07-10-24\MB Final CSC202 07-10-24\obj\Debug\MB Final CSC202 07-10-24.pdb
